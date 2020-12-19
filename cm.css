@@ -148,7 +148,7 @@ h3{
  background-color: #d59e9a99;
  max-width: 100%;
  
- /*margin-bottom: 50%; */
+ 
 	
 
 
@@ -174,6 +174,9 @@ h3{
 	position: relative;
 	top: -50px;
 }
+
+#inputGroup-sizing-sm{margin-top: 20px !important;
+font-size: 10px; }
 
 #copy{
 	text-align: center;
@@ -210,19 +213,14 @@ h3{
 
 #firststripe{
 	border: 3px solid #e5e5e5;
-	margin-bottom: 2px;
+	margin-bottom: 5px;
 	margin-top: -1%;
-		position: relative;
-		top: -50px;
-		max-width: 94%;
-		
-
-align-self: center;
+	position: relative;
+	top: -48px;
+	max-width: 94%;
+	align-self: center;
 }
-/*.start{
-	justify-content: center; 
-	min-width: 500px display none;
-}*/
+
 #squares{
 	position: relative;
 	top: -50px;
